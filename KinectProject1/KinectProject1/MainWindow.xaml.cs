@@ -26,7 +26,7 @@ namespace KinectProject1
 
         KinectSensor _sensor;
         int playerDepth;
-
+        
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
             if (KinectSensor.KinectSensors.Count > 0)

@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="400" Width="582" Name="image1">
     <Grid>
-        <Image Height="337" HorizontalAlignment="Left" Margin="12,12,0,0" Name="image2" Stretch="Fill" VerticalAlignment="Top" Width="274" />
-        <Image Height="337" HorizontalAlignment="Left" Margin="292,12,0,0" Name="image3" Stretch="Fill" VerticalAlignment="Top" Width="256" />
+        <Image Height="337" HorizontalAlignment="Left" Margin="12,12,0,0" Name="image2" Stretch="Fill" VerticalAlignment="Top" Width="536" />
+        <Image Height="80" HorizontalAlignment="Left" Margin="445,228,0,0" Name="image3" Stretch="Fill" VerticalAlignment="Top" Width="65" Source="/KinectProject1;component/ball.png" />
     </Grid>
 </Window>
