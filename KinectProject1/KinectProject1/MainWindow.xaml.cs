@@ -27,8 +27,11 @@ namespace KinectProject1
         KinectSensor _sensor;
         int playerDepth;
         
-        private void Window_Loaded(object sender, RoutedEventArgs e)
+        private void image1_Loaded(object sender, RoutedEventArgs e)
         {
+
+   
+
             if (KinectSensor.KinectSensors.Count > 0)
             {
                 _sensor = KinectSensor.KinectSensors[0];
@@ -50,6 +53,8 @@ namespace KinectProject1
             //throw new NotImplementedException();
             using (ColorImageFrame colorFrame = e.OpenColorImageFrame())
             {
+    
+
                 if (colorFrame == null)
                 {
                     return;
@@ -63,6 +68,11 @@ namespace KinectProject1
                 int stride = colorFrame.Width * 4;
 
                 image2.Source = BitmapSource.Create(colorFrame.Width, colorFrame.Height, 96, 96, PixelFormats.Bgr32, null, pixels, stride);
+                if (playerDepth > 500)
+                { 
+                ScaleTransform scaly = new ScaleTransform(.5, .5);
+                image3.RenderTransform = scaly;
+                }
 
             }
             using (DepthImageFrame depthFrame = e.OpenDepthImageFrame())
@@ -77,6 +87,7 @@ namespace KinectProject1
         }
         private void FindDepth(DepthImageFrame depthFrame)
         {
+ 
             short[] rawDepthData = new short[depthFrame.PixelDataLength];
             depthFrame.CopyPixelDataTo(rawDepthData);
 
@@ -89,13 +100,18 @@ namespace KinectProject1
 
                 if (player > 0)
                 {
-                    playerDepth = depthIndex;
-                    break;
+                    playerDepth = rawDepthData[depthIndex];
                 }
 
             }
 
         }
+
+        private void image1_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+
+        }
+
 
     }
 }
