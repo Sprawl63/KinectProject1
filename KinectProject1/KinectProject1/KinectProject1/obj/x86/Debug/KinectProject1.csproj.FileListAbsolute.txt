@@ -1,0 +1,26 @@
+C:\Users\Ryan\Desktop\kinect project one\KinectProject1\KinectProject1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\kinect project one\KinectProject1\KinectProject1\obj\x86\Debug\MainWindow.baml
+C:\Users\Ryan\Desktop\kinect project one\KinectProject1\KinectProject1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ryan\Desktop\kinect project one\KinectProject1\KinectProject1\obj\x86\Debug\App.g.cs
+C:\Users\Ryan\Desktop\kinect project one\KinectProject1\KinectProject1\obj\x86\Debug\KinectProject1_MarkupCompile.cache
+C:\Users\Ryan\Desktop\kinect project one\KinectProject1\KinectProject1\obj\x86\Debug\KinectProject1.g.resources
+C:\Users\Ryan\Desktop\kinect project one\KinectProject1\KinectProject1\obj\x86\Debug\KinectProject1.Properties.Resources.resources
+C:\Users\Ryan\Desktop\kinect project one\KinectProject1\KinectProject1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ryan\Desktop\kinect project one\KinectProject1\KinectProject1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ryan\Desktop\kinect project one\KinectProject1\KinectProject1\bin\Debug\KinectProject1.exe
+C:\Users\Ryan\Desktop\kinect project one\KinectProject1\KinectProject1\bin\Debug\KinectProject1.pdb
+C:\Users\Ryan\Desktop\kinect project one\KinectProject1\KinectProject1\obj\x86\Debug\KinectProject1.exe
+C:\Users\Ryan\Desktop\kinect project one\KinectProject1\KinectProject1\obj\x86\Debug\KinectProject1.pdb
+C:\Users\Brenton\Desktop\KinectProject1\KinectProject1\KinectProject1\obj\x86\Debug\KinectProject1.exe
+C:\Users\Brenton\Desktop\KinectProject1\KinectProject1\KinectProject1\obj\x86\Debug\KinectProject1.pdb
+C:\Users\Brenton\Desktop\KinectProject1\KinectProject1\KinectProject1\bin\Debug\KinectProject1.exe
+C:\Users\Brenton\Desktop\KinectProject1\KinectProject1\KinectProject1\bin\Debug\KinectProject1.pdb
+C:\Users\Brenton\Desktop\KinectProject1\KinectProject1\KinectProject1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brenton\Desktop\KinectProject1\KinectProject1\KinectProject1\obj\x86\Debug\MainWindow.baml
+C:\Users\Brenton\Desktop\KinectProject1\KinectProject1\KinectProject1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Brenton\Desktop\KinectProject1\KinectProject1\KinectProject1\obj\x86\Debug\App.g.cs
+C:\Users\Brenton\Desktop\KinectProject1\KinectProject1\KinectProject1\obj\x86\Debug\KinectProject1_MarkupCompile.cache
+C:\Users\Brenton\Desktop\KinectProject1\KinectProject1\KinectProject1\obj\x86\Debug\KinectProject1.g.resources
+C:\Users\Brenton\Desktop\KinectProject1\KinectProject1\KinectProject1\obj\x86\Debug\KinectProject1.Properties.Resources.resources
+C:\Users\Brenton\Desktop\KinectProject1\KinectProject1\KinectProject1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brenton\Desktop\KinectProject1\KinectProject1\KinectProject1\obj\x86\Debug\GenerateResource.write.1.tlog
